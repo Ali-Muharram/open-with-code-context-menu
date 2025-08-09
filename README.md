@@ -18,8 +18,7 @@ It automatically detects the Visual Studio Code installation path.
 ## 🚀 How to Use
 1. Download the `open_with_code.exe` file.
 2. Right-click on it and choose **"Run as Administrator"**.
-3. Wait for the success message.
-4. Now, when you right-click a folder or folder background, you will see **"Open with Code"**.
+3. Now, when you right-click a folder or folder background, you will see **"Open with Code"**.
 
 ---
 
