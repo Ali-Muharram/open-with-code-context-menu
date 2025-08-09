@@ -9,7 +9,7 @@ It automatically detects the Visual Studio Code installation path.
 ---
 
 ## 📥 Download
-[Click here to download the latest version](./open_with_code.exe)
+[Click here to download the latest version](./open-with-code-context-menu.exe)
 
 ---
 
