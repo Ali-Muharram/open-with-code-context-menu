@@ -9,7 +9,8 @@ It automatically detects the Visual Studio Code installation path.
 ---
 
 ## 📥 Download
-[Click here to download the latest version](https://github.com/Ali-Muharram/open-with-code-context-menu/releases/download/v1.0/open-with-code-context-menu.exe)
+[Click here to download the latest version]([https://github.com/Ali-Muharram/open-with-code-context-menu/releases/download/v1.0/open-with-code-context-menu.exe](https://github.com/Ali-Muharram/open-with-code-context-menu/releases/download/v1.0/open-with-code-context-menu.exe
+)
 
 ---
 
